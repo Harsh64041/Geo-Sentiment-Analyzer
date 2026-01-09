@@ -105,7 +105,7 @@ npm install
 cd ../frontend
 npm install
 ```
-### 🛢️ Step 3: Set Up AWS DynamoDB
+### 🛢️ Step 3: Set Up AWS DynamoDB**
 - **Log in to AWS Management Console**
 - **Navigate to DynamoDB**
 - **Create a new table with the following details:**
@@ -127,7 +127,7 @@ AWS_REGION=ap-south-1
 DYNAMODB_TABLE_NAME=GeoSentimentTable
 ```
 
-### ▶️ Step 4: Run the Application
+### ▶️ Step 4: Run the Application**
 - **Start Backend Server**
 ```sh
 cd Backend
@@ -148,7 +148,7 @@ npm start
 http://localhost:3000
 ```
 ---
-### 🔮 Future Enhancements
+### **🔮 Future Enhancements**
 
 🚀 Advanced NLP & Deep Learning Models – Improve sentiment accuracy using transformer-based models (BERT, RoBERTa).
 
@@ -160,14 +160,14 @@ http://localhost:3000
 
 ☁️ Enhanced Cloud Scalability – Optimize performance using AWS Lambda and auto-scaling services.
 
-### 🤝 Contribution
+### **🤝 Contribution**
 - Fork the repository.
 - Create a feature branch (git checkout -b feature-branch).
 - Commit your changes (git commit -m "Add new feature").
 - Push to the branch (git push origin feature-branch).
 - Open a Pull Request.
 
-### 📧 Contact & Support
+### **📧 Contact & Support**
 
 For any queries or support, feel free to reach out:
 
