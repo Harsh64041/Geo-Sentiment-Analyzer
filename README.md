@@ -160,13 +160,15 @@ http://localhost:3000
 
 ☁️ Enhanced Cloud Scalability – Optimize performance using AWS Lambda and auto-scaling services.
 
+---
 ### **🤝 Contribution**
 - Fork the repository.
 - Create a feature branch (git checkout -b feature-branch).
 - Commit your changes (git commit -m "Add new feature").
 - Push to the branch (git push origin feature-branch).
 - Open a Pull Request.
-
+  
+---
 ### **📧 Contact & Support**
 
 For any queries or support, feel free to reach out:
